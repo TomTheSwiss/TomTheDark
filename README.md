@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm TomTheDark 👋</h1>
+<h1 align="center">Hi there, I'm Tom 👋</h1>
 
 <h3 align="center">Passionate about Computer Science, Art, and Gaming 🎮🎨💻</h3>
 
